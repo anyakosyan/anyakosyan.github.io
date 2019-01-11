@@ -168,12 +168,6 @@ html {
 .title-block, .link-block {
     min-height: 300px;
 }
-/*.title-block {*/
-    /*margin-bottom: 100px;*/
-/*}*/
-/*.link-block {*/
-    /*margin-bottom: 80px;*/
-/*}*/
 .btn {
     display: inline-block;
 
@@ -258,9 +252,7 @@ address, .contacts a {
 .contacts a:hover:before, .tutor-link:hover:before {
     display: none;
 }
-/*.icons {*/
-    /*margin-bottom: 34px;*/
-/*}*/
+
 .appear-from-left, .appear-from-right {
     color: #22a6b3;
     font-family: 'Montserrat',  sans-serif;
