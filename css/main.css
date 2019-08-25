@@ -371,7 +371,7 @@ address, .contacts a {
 .portfolio {
     color: #22a6b3;
     right: 0;
-    bottom: 0;
+    bottom: 74px;
     font-family: 'Montserrat',  sans-serif;
     letter-spacing: 8px;
     text-decoration: none;
@@ -382,5 +382,5 @@ address, .contacts a {
     height: 4px;
 }
 .valenzano {
-bottom: 30px;
+bottom: 0;
 }
